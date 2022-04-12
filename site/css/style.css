@@ -1,0 +1,28 @@
+body{
+    background-image: url(../imagens/fundosite.png);    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+    font-size: 8em;
+    margin-right: 150px;
+    
+}
+.post_title{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    margin-right: 150px;
+
+}
+.post_content{
+    text-align: right;
+    margin-right: 150px;
+    margin-left: 600px;
+    color: white;
+}
+.bt_footer{
+    text-align: right;
+    margin-right: 150px;
+}

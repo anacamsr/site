@@ -1,0 +1,36 @@
+body{
+    background-image: url(../site/imagens/fundosite.png);    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+    font-size: 8em;
+    margin-right: 100px;
+    
+}
+.post_title{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    margin-right: 100px;
+
+}
+.post_content{
+    text-align: right;
+    margin-right: 100px;
+    margin-left: 670px;
+    color: white;
+}
+.bt_footer{
+    text-align: right;
+    margin-right: 100px;
+}
+
+.botao{
+    margin-right: 100px;
+    padding-left: 15px;
+}
+.input-group{
+    border-radius: 50px;
+}
